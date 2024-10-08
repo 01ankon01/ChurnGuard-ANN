@@ -36,7 +36,7 @@ Customer churn is a critical issue in the banking industry, as retaining existin
 To get started with BankChurnPredictor-ANN, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/your-username/BankChurnPredictor-ANN.git
+git clone https://github.com/01ankon01/BankChurnPredictor-ANN.git
 cd BankChurnPredictor-ANN
 pip install -r requirements.txt
 ```
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 2. **Train the Model**: Use the following command to train the ANN model:
 
     ```bash
-    python train.py --data ./data/customer_data.csv --epochs 50 --batch-size 32
+    python train.py --data ./data/Churn_Modelling.csv --epochs 50 --batch-size 32
     ```
 
 3. **Make Predictions**: After training, use the trained model to predict churn probabilities:
