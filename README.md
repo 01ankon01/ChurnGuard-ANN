@@ -89,6 +89,8 @@ The model is evaluated using various performance metrics:
 - **Recall**: Ratio of true positives to actual positives.
 - **F1-Score**: Harmonic mean of precision and recall.
 
+For a detailed visualization of model performance, visit the [Tableau Dashboard](https://public.tableau.com/views/DataModeling2/Balance?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 ---
 
 ## **Contributing**
